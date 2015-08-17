@@ -50,6 +50,7 @@ nav ul li.logo{
 	font-size: 20px;
 	font-weight: 700;
 	letter-spacing: 1px;	
+	margin: 0 0 0 10px;
 
 }
 .logo a{
@@ -89,7 +90,7 @@ button{
 /*---------------正文部分-----
 -----------------------------*/
 .green-section{
-	background:#0688F5;
+	background:#69B0AC;
 	text-align:center;
 	color: #fff;
 	padding:100px 0;
@@ -108,7 +109,7 @@ button{
 .green-section .hr{
 
 	width: 100%;
-	background: #097BDB;	
+	background: #4EA9A4;	
 }
 /*控制多个块级元素 当屏幕拉伸的时
 ------候会出现元素换行的情况------
@@ -122,3 +123,51 @@ button{
 	margin: 20px;
 	margin-top: 40px;
 }  
+.gray-section{
+	background: #1C1C1C;
+	color: #fff;
+}
+.gray-section .img-section{
+	width: 45%
+}
+.img-section img{
+	width: 100%;
+}
+
+.gray-section .text-section{
+	width: 55%
+}
+.article-preview > div{
+	float: left;
+	font-size: 0;
+}
+.article-preview:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+.article-preview:nth-child(odd){
+	background-color: rgba(255,255,255,0.05);
+}
+
+.text-section{
+	position: relative;
+	top:40px;
+	left: 40px;
+
+}
+.text-section> *{
+	width: 90%;
+}
+
+.text-section p{
+	font-size: 18px;
+	letter-spacing: 1px;
+}
+.text-section h2{
+	margin-bottom: 20px;
+}
+.text-section .text-section{
+	font-size: 24px;
+	margin-top: 0;
+}
