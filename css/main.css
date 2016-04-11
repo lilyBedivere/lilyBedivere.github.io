@@ -27,17 +27,13 @@ p{
 
 
 /*导航页部分*/
-header{
-	background: rgba(0,0,0,0.1);
-}
 nav{
-	background: transparent;
+	background: #ccc;
 	height: 50px;
 	margin: 0px;
-
 }
 #banner{
-	background: rgba(0,0,0,0.1);
+	background: #777;
 	height: 700px;
 }
 nav ul{
@@ -84,7 +80,6 @@ nav ul li.logo{
 	margin: 0 auto;
 	position: relative;
 	top: 200px;
-	color: #fff;
 
 }
 #banner .inner h1{
@@ -100,12 +95,8 @@ button{
 	padding: 12px 30px;
 }
 #banner .inner .more{
-	margin: 0px;
-	margin-top: 230px;
+	margin-top: 300px;
 
-}
-#banner .inner a{
-	color: #fff;
 }
 
 
@@ -197,7 +188,6 @@ button{
 	background: #4A225D;
 	color: #fff;
 	padding: 80px;
-	padding-bottom: 0px;
 }
 
 .purple-section .wrapper{
@@ -240,35 +230,15 @@ button{
 footer{
 	background: #333;
 	color: #fff;
-	min-height: 100px;
+	min-height: 180px;
 	padding-top: 0;
-	text-align:center;
 }
 footer ul{
 	margin: 0;
 	
-	
-	
 }
 ul.share-group{
 	display: block;
-	
+	width: 1080px;
 	margin: 0 auto;
-	padding: 20px;
-
-
-}
-ul.share-group li{
-	display: inline-block;
-	padding: 14px;
-}
-.copy{
-	padding-bottom: 20px;
-}
-.main-wrapper{
-	background: #444 url(../image/banner.jpg);
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center center;
 }
