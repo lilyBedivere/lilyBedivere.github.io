@@ -1,0 +1,30 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    img/saber.jpg
+#
+# Changes not staged for commit:
+#	deleted:    .gitattributes
+#	deleted:    css/font-awesome.min.css
+#	deleted:    css/main.css
+#	deleted:    css/normalize.css
+#	deleted:    css/reset.css
+#	deleted:    font/FontAwesome.otf
+#	deleted:    font/fontawesome-webfont.eot
+#	deleted:    font/fontawesome-webfont.svg
+#	deleted:    font/fontawesome-webfont.ttf
+#	deleted:    font/fontawesome-webfont.woff
+#	deleted:    image/banner.jpg
+#	deleted:    image/banner2.jpg
+#	deleted:    image/pic01.jpg
+#	deleted:    image/pic02.jpg
+#	deleted:    image/pic03.jpg
+#	deleted:    image/pic04.jpg
+#	deleted:    image/pic05.jpg
+#	deleted:    image/pic06.jpg
+#
+
