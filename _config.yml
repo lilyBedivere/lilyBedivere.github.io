@@ -6,7 +6,7 @@ email: 496744288@qq.com
 description: "Lorem  possimus, repellat distinctio."
 keyword: ""
 url: ""              # your host, for absolute URL
-baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/avalons"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
@@ -27,7 +27,7 @@ permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-safe: true                              # 插件安全
+
                    
 
 
@@ -69,8 +69,8 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "有趣的事情那么多，总得试试."
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "有趣的事情那么多，总得试试~."
+sidebar-avatar: /avalons/img/saberone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -83,7 +83,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "另一个页面",
+        title: "just for fun",
         href: "lilyBedivere.github.io"
     },{
         title: "Foo",
