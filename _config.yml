@@ -12,7 +12,7 @@ baseurl: "/avalons"         # for example, '/blog' if your blog hosted on 'host/
 
 # SNS settings
 RSS: false
-weibo_username:     lily_Bedivere
+weibo_username:     /u/1891633994
 zhihu_username:     bedivere-lily
 github_username:    lilyBedivere
 #twitter_username:  huxpro
